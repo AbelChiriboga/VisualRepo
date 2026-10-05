@@ -9,5 +9,5 @@ package practica;
  * @author User
  */
 public class Clase1 {
-    
+    //Hola amiguitos como estan
 }
