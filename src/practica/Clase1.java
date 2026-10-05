@@ -14,4 +14,5 @@ public class Clase1 {
     //Hola compañero juan pablo como esta usted 
     //Hola compañero Abel, bien y usted?
     //Hola Socio 
+    //Hola amiguitos
 }
