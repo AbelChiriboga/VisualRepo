@@ -10,4 +10,6 @@ package practica;
  */
 public class Clase1 {
     //Hola amiguitos como estan
+    
+    //Hola compañero juan pablo como esta usted 
 }
