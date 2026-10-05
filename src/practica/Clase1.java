@@ -26,4 +26,6 @@ public class Clase1 {
     //Alexis Nata
     
     //DAMIAN BASTIDAS
+    
+    //JOSTIN SIGCHA
 }
