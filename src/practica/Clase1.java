@@ -20,14 +20,4 @@ public class Clase1 {
     //JUAN PABLO
     
     //VINI ARIAS
-    
-    //  ABEL CHIRIBOGA
-    
-    //Alexis Nata
-    
-    //DAMIAN BASTIDAS
-    
-    //JOSTIN SIGCHA
-    
-    //  PRACTICA DE CAMBIOS
 }
