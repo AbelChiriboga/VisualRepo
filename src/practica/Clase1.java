@@ -32,6 +32,4 @@ public class Clase1 {
     //  PRACTICA DE CAMBIOS
     
     // SEGUNDO COMMIT JOSTIN
-    
-    //BARCELONA ES MEJOR QUE LIGA
 }
