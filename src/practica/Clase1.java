@@ -22,4 +22,6 @@ public class Clase1 {
     //VINI ARIAS
     
     //  ABEL CHIRIBOGA
+    
+    //Alexis Nata
 }
